@@ -1,0 +1,7 @@
+scipy
+numpy
+matplotlib
+sklearn
+hmmlearn
+simplejason
+eyed3
